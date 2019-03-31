@@ -10,6 +10,7 @@ CUED PhD thesis template
 
 ## Author(s)
 *   Krishna Kumar
+*   (Loughborough University Edits) Dan Wright
 
 --------------------------------------------------------------------------------
 ## Features
